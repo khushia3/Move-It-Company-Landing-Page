@@ -1,0 +1,23 @@
+
+body {
+  font-family: 'Sono', sans-serif;
+}
+
+.feature-icon {
+  width: 4rem;
+  height: 4rem;
+  border-radius: 0.75rem;
+  transition: transform 0.3s ease;
+}
+
+.feature-icon:hover {
+  transform: scale(1.1);
+}
+
+.cta-buttons .btn {
+  padding: 0.75rem 2rem;
+}
+
+footer {
+  background-color: #f8f9fa;
+}
